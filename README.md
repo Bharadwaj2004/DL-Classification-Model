@@ -11,55 +11,36 @@ Include the neural network model diagram.
 
 ## DESIGN STEPS
 ### STEP 1: 
+Load the Iris dataset using a suitable library.
 
-Write your own steps
 
 ### STEP 2: 
-
+Preprocess the data by handling missing values and normalizing features.
 
 
 ### STEP 3: 
-
+Split the dataset into training and testing sets.
 
 
 ### STEP 4: 
-
+Train a classification model using the training data.
 
 
 ### STEP 5: 
-
+Evaluate the model on the test data and calculate accuracy.
 
 
 ### STEP 6: 
-
+Display the test accuracy, confusion matrix, and classification report.
 
 
 
 
 ## PROGRAM
 
-### Name:
+### Name:BODICHERLA VENKATA BHARADWAJ
 
-### Register Number:
-
-```python
-class IrisClassifier(nn.Module):
-    def __init__(self, input_size):
-        super(IrisClassifier, self).__init__()
-        #Include your code here
-
-    def forward(self, x):
-        #Include your code here
-
-
-
-# Initialize the Model, Loss Function, and Optimizer
-
-def train_model(model, train_loader, criterion, optimizer, epochs):
-    #Include your code here
-
-```
-
+### Register Number:212222240020
 ### Dataset Information
 Include screenshot of the dataset.
 
